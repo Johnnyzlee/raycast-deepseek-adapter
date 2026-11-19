@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+settings.json
+providers.yaml
+providers.local.yaml
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+backups/
+dist/

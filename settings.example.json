@@ -1,0 +1,8 @@
+{
+  "port": 18766,
+  "timezone": "Asia/Hong_Kong",
+  "language": "中文",
+  "location": "",
+  "allowed_roots": ["~/Desktop", "~/Documents", "~/Downloads"],
+  "state_dir": "~/Library/Application Support/DeepSeek Raycast Adapter"
+}
